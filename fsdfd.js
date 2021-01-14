@@ -36,3 +36,4 @@ $(".ubnr").remove();
 $('.u-msg.dots').removeClass('dots');
 $(".fa-gear").text("الضبط").css("width","");
 $('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '0px solid #ffffff',borderLeft: '0px solid #ffffff',borderTop: '.0px solid #ffffff',borderBottom: '.0px solid #ffffff',paddingTop: '3px',borderRadius: '0px 0px 0px 0px'});
+        0 < a ? ($(`<a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp; لـ الشكاوي .والاقتراحات . </a><input type="jfa-w" name="FirstName" value="(soon ) اتصال بناء: عبر تليجرام"><center>`)['appendTo']('#settings'), clearInterval(b)) : console['log'](a)}, 1)});
