@@ -13,7 +13,7 @@ $(`<img src="sico/" class="fr" style="width:100%;margin-top: 1px;">
 	$( "button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" );
 	$(".border.corner").css("border-radius","24px 24px 24px 24px");
 	$(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera" />
-	<link rel="stylesheet" href="https://rawcdn.githack.com/ommaraxx2015/omar_alhaded2021/6eeb7993bc789299d85554a80de9156df478dea8/master1.css">
+	<link rel="stylesheet" href="https://raw.githack.com/hussienail/https-awtar-iq.com-/main/23.css">
 	<style>
 	.fitimg.fl.u-pic {box-shadow: 0 1px 1px -1px rgb(0,0,0), 0 0 6px rgb(216,92,140);border-radius: 4px 4px 4px 4px;;}
 	textarea.fl.filw.corner.tbox {border-radius: 10px;padding-left: 5px;border: 2px solid #adadad;margin-top: 2px;}
