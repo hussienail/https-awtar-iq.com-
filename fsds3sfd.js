@@ -1,4 +1,5 @@
-$(`<img src="sico/" class="fr" style="width:100%;margin-top: 1px;">
+$(`<img src="sico/1610720442337.jpg
+" class="fr" style="width:100%;margin-top: 1px;">
 	<a id="des3" href="#" style="border-radius: 24px;width:23%;margin:2px;" class="fl mini fa fa-facebook
 	btn btn-primary"> فيس بوك</a>
 	<a id="des3" href="#" style="border-radius: 24px;width:23%;margin:2px;" class="fl mini fa fa-star
@@ -30,8 +31,13 @@ margin-left: 2px;text-align: center;float: right;border-radius: 5px;
 border-color: #990033;
 padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" >Style By:ASIM</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 $("[data-target=#wall]").attr('title','  ♥️الحااائط للابـــــداع ♥️          ')
- $("a.fa.fa-user-plus").text(' Sign Up ');
- $("a.fa.fa-user").text(' Login ');
+$('.fa.fa-user-plus')['html'](`${'❥تسجيل '}`)
+document['getElementById']('u1')['placeholder'] = 'اكتب اسمك من 5 احرف فقط '
+document['getElementById']('pass1')['placeholder'] = 'كلمة المرور'
+document['getElementById']('u2')['placeholder'] = 'فخأمة طلتك تنورنا' 
+document['getElementById']('pass2')['placeholder'] = ' ㋡ بـاسوردك ولاتنساه يـ جميل '
+document['getElementById']('u3')['placeholder'] = '♥ أكتب اسمك ولازم تحفظه ';
+ $("a.fa.fa-user").text(' دخول ');
 $(".ubnr").remove();
 $('.u-msg.dots').removeClass('dots');
 $(".fa-gear").text("الضبط").css("width","");
